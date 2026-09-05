@@ -8,7 +8,7 @@ Uma aplicação web simples, moderna e intuitiva projetada para ajudar você a c
 - **Cópia Fácil:** Clique no ícone de cópia para copiar a senha para a área de transferência. Feedback visual imediato ao copiar.
 - **Modo Escuro/Claro:** Alternância entre temas escuro e claro, com suporte à preferência do sistema.
 
-## 🛠 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Este projeto foi construído utilizando tecnologias web fundamentais:
 
@@ -17,7 +17,7 @@ Este projeto foi construído utilizando tecnologias web fundamentais:
 - **JavaScript (Vanilla):** Lógica da aplicação, manipulação de DOM e interatividade.
 - **Phosphor Icons:** Ícones utilizados na interface (via CDN).
 
-## 🚀 Como Rodar o Projeto
+## ⚙️ Como Rodar o Projeto
 
 Este projeto é uma aplicação estática simples. Não é necessário nenhum servidor de backend ou processo de build complexo.
 
@@ -25,6 +25,10 @@ Este projeto é uma aplicação estática simples. Não é necessário nenhum se
 2. Abra o arquivo `index.html` diretamente em seu navegador favorito.
 
 Alternativamente, você pode usar uma extensão como "Live Server" no VS Code para servir os arquivos localmente.
+
+## 🚀 Deploy
+
+Acesse o projeto em [Password Generator Site](https://romaosantosalisson.github.io/password-generator/).
 
 ## 📄 Licença
 
